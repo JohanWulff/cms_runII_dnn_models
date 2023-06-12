@@ -1,0 +1,10 @@
+new_mass_cut_param_0 0.10656267597992289
+new_mass_cut_param_1 0.10576951768426197
+new_mass_cut_param_2 0.10442769590666386
+new_mass_cut_param_3 0.10437269777398692
+new_mass_cut_param_4 0.10342420107864327
+new_mass_cut_param_5 0.10078752064266862
+new_mass_cut_param_6 0.09918511280500046
+new_mass_cut_param_7 0.09463437033949018
+new_mass_cut_param_8 0.09333921984548638
+new_mass_cut_param_9 0.08749698794387553
